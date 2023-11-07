@@ -1,0 +1,25 @@
+.blue{
+    background-color: blue;
+    border-radius:20px;
+}
+.red{
+    color:red;
+    background-color: black;
+    font-size: 20px;
+    border-radius:20px;
+    margin:15px;
+    padding:5px;
+}
+body{
+    background-color:darkgrey;
+}
+input{
+    font-size:15;
+    display:flex;
+}
+#SheetSubmit{
+    height:50px;
+    width:120px;
+    margin:20px;
+    font-size: 20px;
+}
